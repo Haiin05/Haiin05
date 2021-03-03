@@ -1,4 +1,10 @@
-### Hi there 👋
+### ✨ This is Haiin's repository ✨ Hi there 👋 
+
+---
+
+[![Javascript ](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black)](https://ko.reactjs.org/) [![React ](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black)](https://ko.reactjs.org/) [![Redux ](https://img.shields.io/badge/Redux-764ABC?logo=Redux)](https://ko.reactjs.org/) [![Redux ](https://img.shields.io/badge/ReduxSaga-999999?logo=Redux-Saga&logoColor=white)](https://ko.reactjs.org/)
+[![HTML ](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white)](https://ko.reactjs.org/) [![CSS ](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white)](https://ko.reactjs.org/) [![SASS ](https://img.shields.io/badge/SASS-CC6699?logo=SASS&logoColor=white)](https://ko.reactjs.org/) [![StyledComponents ](https://img.shields.io/badge/StyledComponents-DB7093?logo=styled-components&logoColor=white)](https://ko.reactjs.org/)
+
 
 <!--
 **Haiin05/Haiin05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
